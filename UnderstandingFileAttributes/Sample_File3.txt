@@ -1,0 +1,4 @@
+The file or directory includes data integrity support.
+When this value is applied to a file, all data streams in the file 
+have integrity support.When this value is applied to a directory, 
+all new files and subdirectories within that directory, by default, include integrity 

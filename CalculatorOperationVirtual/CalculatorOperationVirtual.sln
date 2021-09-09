@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorOperationVirtual", "CalculatorOperationVirtual\CalculatorOperationVirtual.csproj", "{15531030-3145-41A0-B5E4-B56FB4898A2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorOperationVirtualTest", "CalculatorOperationVirtualTest\CalculatorOperationVirtualTest.csproj", "{DCFB4B9D-5249-4518-AFA1-CC9010632529}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15531030-3145-41A0-B5E4-B56FB4898A2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15531030-3145-41A0-B5E4-B56FB4898A2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15531030-3145-41A0-B5E4-B56FB4898A2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15531030-3145-41A0-B5E4-B56FB4898A2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCFB4B9D-5249-4518-AFA1-CC9010632529}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCFB4B9D-5249-4518-AFA1-CC9010632529}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCFB4B9D-5249-4518-AFA1-CC9010632529}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCFB4B9D-5249-4518-AFA1-CC9010632529}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7CBF79B-F622-4177-B6CD-5F1BECEE7620}
+	EndGlobalSection
+EndGlobal

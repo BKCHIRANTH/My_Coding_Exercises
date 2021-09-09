@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveOccurances", "RemoveOccurances\RemoveOccurances.csproj", "{997D9E92-A0E0-428E-B9A1-AE49D672523A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RemoveAllOccurancesTest", "RemoveAllOccurancesTest\RemoveAllOccurancesTest.csproj", "{597C1009-15CC-47E3-B607-3D7018545649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{997D9E92-A0E0-428E-B9A1-AE49D672523A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{997D9E92-A0E0-428E-B9A1-AE49D672523A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{997D9E92-A0E0-428E-B9A1-AE49D672523A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{997D9E92-A0E0-428E-B9A1-AE49D672523A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{597C1009-15CC-47E3-B607-3D7018545649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{597C1009-15CC-47E3-B607-3D7018545649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{597C1009-15CC-47E3-B607-3D7018545649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{597C1009-15CC-47E3-B607-3D7018545649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3DFADE9-F719-48E6-AC7A-616CC5887C77}
+	EndGlobalSection
+EndGlobal

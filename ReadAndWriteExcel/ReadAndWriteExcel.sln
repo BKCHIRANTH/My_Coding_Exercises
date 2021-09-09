@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadAndWriteExcel", "ReadAndWriteExcel\ReadAndWriteExcel.csproj", "{09157AA0-FC18-4F11-B16C-C396C212F220}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadWriteExcelTest", "ReadWriteExcelTest\ReadWriteExcelTest.csproj", "{0BD62E08-D8CD-4406-9FFB-65F6740E3DB6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09157AA0-FC18-4F11-B16C-C396C212F220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09157AA0-FC18-4F11-B16C-C396C212F220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09157AA0-FC18-4F11-B16C-C396C212F220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09157AA0-FC18-4F11-B16C-C396C212F220}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD62E08-D8CD-4406-9FFB-65F6740E3DB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD62E08-D8CD-4406-9FFB-65F6740E3DB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD62E08-D8CD-4406-9FFB-65F6740E3DB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD62E08-D8CD-4406-9FFB-65F6740E3DB6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59BC15B8-0FAB-42A0-B68D-AF56EAD42B9E}
+	EndGlobalSection
+EndGlobal

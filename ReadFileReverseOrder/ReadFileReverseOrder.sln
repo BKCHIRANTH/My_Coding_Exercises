@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFileReverseOrder", "ReadFileReverseOrder\ReadFileReverseOrder.csproj", "{D046751C-080F-42C0-AA19-9D009AEBE5B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadFileTest", "ReadFileTest\ReadFileTest.csproj", "{BAF377E2-D836-4C21-B5E3-FE006BD4C31D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D046751C-080F-42C0-AA19-9D009AEBE5B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D046751C-080F-42C0-AA19-9D009AEBE5B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D046751C-080F-42C0-AA19-9D009AEBE5B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D046751C-080F-42C0-AA19-9D009AEBE5B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAF377E2-D836-4C21-B5E3-FE006BD4C31D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF377E2-D836-4C21-B5E3-FE006BD4C31D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF377E2-D836-4C21-B5E3-FE006BD4C31D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF377E2-D836-4C21-B5E3-FE006BD4C31D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2DAA91D7-ED67-4BFE-87E8-4774467F564D}
+	EndGlobalSection
+EndGlobal

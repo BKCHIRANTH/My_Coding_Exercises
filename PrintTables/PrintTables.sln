@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintTables", "PrintTables\PrintTables.csproj", "{891A1BC1-5D84-4A26-BD3E-44681496C2B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrintTablesTest", "PrintTablesTest\PrintTablesTest.csproj", "{D46EDD85-E049-469D-85D9-0F5AFF1DAECA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{891A1BC1-5D84-4A26-BD3E-44681496C2B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{891A1BC1-5D84-4A26-BD3E-44681496C2B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{891A1BC1-5D84-4A26-BD3E-44681496C2B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{891A1BC1-5D84-4A26-BD3E-44681496C2B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D46EDD85-E049-469D-85D9-0F5AFF1DAECA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D46EDD85-E049-469D-85D9-0F5AFF1DAECA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D46EDD85-E049-469D-85D9-0F5AFF1DAECA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D46EDD85-E049-469D-85D9-0F5AFF1DAECA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {48BAEDA2-FB87-47F1-9E33-5BF2B8ED9B62}
+	EndGlobalSection
+EndGlobal

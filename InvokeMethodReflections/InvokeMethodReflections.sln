@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvokeMethodReflections", "InvokeMethodReflections\InvokeMethodReflections.csproj", "{33148EF7-1E29-4721-8DEE-DC1F8C4D0325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InvokeMethodReflectionTest", "InvokeMethodReflectionTest\InvokeMethodReflectionTest.csproj", "{67909069-6A9E-4316-B565-87B83EF7530C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33148EF7-1E29-4721-8DEE-DC1F8C4D0325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33148EF7-1E29-4721-8DEE-DC1F8C4D0325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33148EF7-1E29-4721-8DEE-DC1F8C4D0325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33148EF7-1E29-4721-8DEE-DC1F8C4D0325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67909069-6A9E-4316-B565-87B83EF7530C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67909069-6A9E-4316-B565-87B83EF7530C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67909069-6A9E-4316-B565-87B83EF7530C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67909069-6A9E-4316-B565-87B83EF7530C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9FDD1B-E1C8-4B0D-9F57-D41FFAC75EA1}
+	EndGlobalSection
+EndGlobal

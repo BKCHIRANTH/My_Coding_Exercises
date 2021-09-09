@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteThreadsWithoutPriority", "ExecuteThreadsWithoutPriority\ExecuteThreadsWithoutPriority.csproj", "{CFD1DEA7-D2C1-41CA-A0D6-9E9C16FA86BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExecuteThreadsTest", "ExecuteThreadsTest\ExecuteThreadsTest.csproj", "{CD243F8B-F2FB-4803-BA08-B5A5687382A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CFD1DEA7-D2C1-41CA-A0D6-9E9C16FA86BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD1DEA7-D2C1-41CA-A0D6-9E9C16FA86BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD1DEA7-D2C1-41CA-A0D6-9E9C16FA86BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD1DEA7-D2C1-41CA-A0D6-9E9C16FA86BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD243F8B-F2FB-4803-BA08-B5A5687382A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD243F8B-F2FB-4803-BA08-B5A5687382A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD243F8B-F2FB-4803-BA08-B5A5687382A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD243F8B-F2FB-4803-BA08-B5A5687382A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33ADCABF-0CB4-4EDE-B8B3-7261EC5F18FF}
+	EndGlobalSection
+EndGlobal

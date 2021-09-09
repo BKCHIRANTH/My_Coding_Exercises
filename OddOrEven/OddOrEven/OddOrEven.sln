@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEven", "OddOrEven\OddOrEven.csproj", "{FE51A98A-1E87-4525-9A4B-9DB65688DDBB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddOrEvenTest", "OddOrEvenTest\OddOrEvenTest.csproj", "{F6D69514-9CCC-4452-B52B-F2988ED33EE3}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FE51A98A-1E87-4525-9A4B-9DB65688DDBB} = {FE51A98A-1E87-4525-9A4B-9DB65688DDBB}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE51A98A-1E87-4525-9A4B-9DB65688DDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE51A98A-1E87-4525-9A4B-9DB65688DDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE51A98A-1E87-4525-9A4B-9DB65688DDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE51A98A-1E87-4525-9A4B-9DB65688DDBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D69514-9CCC-4452-B52B-F2988ED33EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D69514-9CCC-4452-B52B-F2988ED33EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D69514-9CCC-4452-B52B-F2988ED33EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D69514-9CCC-4452-B52B-F2988ED33EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1424D93D-9E14-4D2E-80EB-C0E7D15515F2}
+	EndGlobalSection
+EndGlobal

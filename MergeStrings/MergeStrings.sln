@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeStrings", "MergeStrings\MergeStrings.csproj", "{4705BBC3-2275-43D8-8253-AD096D70BE08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeStringTest", "MergeStringTest\MergeStringTest.csproj", "{0F0FD462-EDBD-45B6-8D78-634588BB846E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4705BBC3-2275-43D8-8253-AD096D70BE08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4705BBC3-2275-43D8-8253-AD096D70BE08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4705BBC3-2275-43D8-8253-AD096D70BE08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4705BBC3-2275-43D8-8253-AD096D70BE08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F0FD462-EDBD-45B6-8D78-634588BB846E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F0FD462-EDBD-45B6-8D78-634588BB846E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F0FD462-EDBD-45B6-8D78-634588BB846E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F0FD462-EDBD-45B6-8D78-634588BB846E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CE35D86-3B5B-468B-ABB3-652D1A234C88}
+	EndGlobalSection
+EndGlobal

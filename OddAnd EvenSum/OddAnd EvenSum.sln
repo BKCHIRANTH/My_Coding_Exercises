@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddAndEvenSum", "OddAnd EvenSum\OddAndEvenSum.csproj", "{CD992718-D924-49F2-A31E-FE47AFAF8E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddAndEvenSumTest", "OddAndEvenSumTest\OddAndEvenSumTest.csproj", "{EC4C0535-25FA-4BBE-A8B9-D7F880667269}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD992718-D924-49F2-A31E-FE47AFAF8E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD992718-D924-49F2-A31E-FE47AFAF8E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD992718-D924-49F2-A31E-FE47AFAF8E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD992718-D924-49F2-A31E-FE47AFAF8E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4C0535-25FA-4BBE-A8B9-D7F880667269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4C0535-25FA-4BBE-A8B9-D7F880667269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4C0535-25FA-4BBE-A8B9-D7F880667269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4C0535-25FA-4BBE-A8B9-D7F880667269}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {678AADFD-781B-4514-BC0E-D08061813E2B}
+	EndGlobalSection
+EndGlobal

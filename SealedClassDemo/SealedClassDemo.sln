@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedClassDemo", "SealedClassDemo\SealedClassDemo.csproj", "{D25E925A-26B7-4B37-B47C-414BA6D71D2E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SealedClassTest", "SealedClassTest\SealedClassTest.csproj", "{CE29816E-97D3-4085-A26B-33B37460B055}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D25E925A-26B7-4B37-B47C-414BA6D71D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D25E925A-26B7-4B37-B47C-414BA6D71D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D25E925A-26B7-4B37-B47C-414BA6D71D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D25E925A-26B7-4B37-B47C-414BA6D71D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE29816E-97D3-4085-A26B-33B37460B055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE29816E-97D3-4085-A26B-33B37460B055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE29816E-97D3-4085-A26B-33B37460B055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE29816E-97D3-4085-A26B-33B37460B055}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D99854EF-9A3C-4963-A2C4-8AF84D05CFF6}
+	EndGlobalSection
+EndGlobal

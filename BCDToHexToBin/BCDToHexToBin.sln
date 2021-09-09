@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCDToHexToBin", "BCDToHexToBin\BCDToHexToBin.csproj", "{A8BB09DE-B7DE-4DC4-A3AA-6BDFF3A643AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCDToHexToBinTest", "BCDToHexToBinTest\BCDToHexToBinTest.csproj", "{7DE75AD6-BDF5-4DB6-BFBC-472EAA92702F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8BB09DE-B7DE-4DC4-A3AA-6BDFF3A643AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BB09DE-B7DE-4DC4-A3AA-6BDFF3A643AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BB09DE-B7DE-4DC4-A3AA-6BDFF3A643AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BB09DE-B7DE-4DC4-A3AA-6BDFF3A643AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE75AD6-BDF5-4DB6-BFBC-472EAA92702F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE75AD6-BDF5-4DB6-BFBC-472EAA92702F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE75AD6-BDF5-4DB6-BFBC-472EAA92702F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE75AD6-BDF5-4DB6-BFBC-472EAA92702F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {170304D6-1F7C-4D0E-BC97-356932DA75B4}
+	EndGlobalSection
+EndGlobal

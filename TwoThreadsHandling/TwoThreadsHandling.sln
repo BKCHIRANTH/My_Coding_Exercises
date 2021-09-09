@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoThreadsHandling", "TwoThreadsHandling\TwoThreadsHandling.csproj", "{3664D98E-4937-49F7-B474-584CCB8A8EF9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TwoThreadsTest", "TwoThreadsTest\TwoThreadsTest.csproj", "{9DF97A40-D0E6-46DC-8EAC-C95BE6F19A22}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3664D98E-4937-49F7-B474-584CCB8A8EF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3664D98E-4937-49F7-B474-584CCB8A8EF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3664D98E-4937-49F7-B474-584CCB8A8EF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3664D98E-4937-49F7-B474-584CCB8A8EF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DF97A40-D0E6-46DC-8EAC-C95BE6F19A22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF97A40-D0E6-46DC-8EAC-C95BE6F19A22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF97A40-D0E6-46DC-8EAC-C95BE6F19A22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF97A40-D0E6-46DC-8EAC-C95BE6F19A22}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7787C5EC-EA67-4018-B54B-5DAEED947A36}
+	EndGlobalSection
+EndGlobal

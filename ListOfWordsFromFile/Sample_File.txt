@@ -1,0 +1,2 @@
+The accident started during a safety test on an RBMK type nuclear reactor.
+Such was a simulation of an electrical power outage to help create a safety procedure for maintaining it.

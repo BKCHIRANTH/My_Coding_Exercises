@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeDifference", "DateTimeDifference\DateTimeDifference.csproj", "{608DCDDB-1A21-48BD-92F5-19DB0927EEFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeDifferenceTest", "DateTimeDifferenceTest\DateTimeDifferenceTest.csproj", "{5D6263C4-5077-4300-989F-E1F3E162CBBC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{608DCDDB-1A21-48BD-92F5-19DB0927EEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608DCDDB-1A21-48BD-92F5-19DB0927EEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608DCDDB-1A21-48BD-92F5-19DB0927EEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608DCDDB-1A21-48BD-92F5-19DB0927EEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D6263C4-5077-4300-989F-E1F3E162CBBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D6263C4-5077-4300-989F-E1F3E162CBBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D6263C4-5077-4300-989F-E1F3E162CBBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D6263C4-5077-4300-989F-E1F3E162CBBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E16A718-C0D0-4A5E-A20D-AE51D2A3B3B9}
+	EndGlobalSection
+EndGlobal

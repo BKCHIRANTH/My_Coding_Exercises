@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchFileForNotepadCalculator", "BatchFileForNotepadCalculator\BatchFileForNotepadCalculator.csproj", "{DD569842-1CB0-4DE0-B3E9-40B35CB55C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BatchFileTest", "BatchFileTest\BatchFileTest.csproj", "{B0E5E414-A61E-46A3-A8B3-0A5290A6498B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD569842-1CB0-4DE0-B3E9-40B35CB55C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD569842-1CB0-4DE0-B3E9-40B35CB55C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD569842-1CB0-4DE0-B3E9-40B35CB55C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD569842-1CB0-4DE0-B3E9-40B35CB55C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0E5E414-A61E-46A3-A8B3-0A5290A6498B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0E5E414-A61E-46A3-A8B3-0A5290A6498B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0E5E414-A61E-46A3-A8B3-0A5290A6498B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0E5E414-A61E-46A3-A8B3-0A5290A6498B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F9C7D2CD-BE2B-48D3-9BA0-75949B684822}
+	EndGlobalSection
+EndGlobal
